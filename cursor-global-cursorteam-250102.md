@@ -4,6 +4,8 @@ These are the rules created and used by the official Cursor team.
 
 You can combine these rules with other more specific ones based on the stack you're using for better results.
 
+This is also the basis for [`claude-style-schirano-250109.md`](./claude-style-schirano-250109.md).
+
 ```markdown
 DO NOT GIVE ME HIGH LEVEL SHIT, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL CODE OR EXPLANATION!!! I DON'T WANT "Here's how you can blablabla"
 

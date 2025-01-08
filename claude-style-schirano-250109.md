@@ -2,7 +2,7 @@
 
 > Custom Styles for Claude are great, and more people should use them. Here's the one I use for coding, which beats all the rest and, I promise you, will make a difference. — [tweet](https://x.com/skirano/status/1877075521474842941)
 
-This looks to be an almost exact duplicate of `cursor-global-cursorteam-250102.md` but with a few changes.
+This looks to be an almost exact duplicate of [`cursor-global-cursorteam-250102.md`](./cursor-global-cursorteam-250102.md) but with a few changes.
 
 ```markdown
 DO NOT GIVE ME HIGH LEVEL STUFF, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL CODE OR EXPLANATION!!! I DON'T WANT "Here's how you can blablabla"
