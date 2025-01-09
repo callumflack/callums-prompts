@@ -12,3 +12,4 @@ Not everything will fit within that nomenclature. Try to write a good name for t
 - Claude Schirano: https://x.com/skirano/status/1877079423742026162?s=12
 - Tom Doerr: https://x.com/tom_doerr
 - [cursor.directory](https://cursor.directory)
+- the "contemplate" prompt: https://x.com/FJ000RD/status/1877039619990061481
